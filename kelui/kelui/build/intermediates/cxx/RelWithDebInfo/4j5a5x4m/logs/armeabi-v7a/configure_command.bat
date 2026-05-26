@@ -1,0 +1,20 @@
+@echo off
+"C:\\Users\\hcxys\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\cmake.exe" ^
+  "-HC:\\Users\\hcxys\\Downloads\\kelui\\kelui\\src\\main\\cpp" ^
+  "-DCMAKE_SYSTEM_NAME=Android" ^
+  "-DCMAKE_EXPORT_COMPILE_COMMANDS=ON" ^
+  "-DCMAKE_SYSTEM_VERSION=24" ^
+  "-DANDROID_PLATFORM=android-24" ^
+  "-DANDROID_ABI=armeabi-v7a" ^
+  "-DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a" ^
+  "-DANDROID_NDK=C:\\Users\\hcxys\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125" ^
+  "-DCMAKE_ANDROID_NDK=C:\\Users\\hcxys\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125" ^
+  "-DCMAKE_TOOLCHAIN_FILE=C:\\Users\\hcxys\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\build\\cmake\\android.toolchain.cmake" ^
+  "-DCMAKE_MAKE_PROGRAM=C:\\Users\\hcxys\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe" ^
+  "-DCMAKE_CXX_FLAGS=-std=c++17" ^
+  "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\\Users\\hcxys\\Downloads\\kelui\\kelui\\build\\intermediates\\cxx\\RelWithDebInfo\\4j5a5x4m\\obj\\armeabi-v7a" ^
+  "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\\Users\\hcxys\\Downloads\\kelui\\kelui\\build\\intermediates\\cxx\\RelWithDebInfo\\4j5a5x4m\\obj\\armeabi-v7a" ^
+  "-DCMAKE_BUILD_TYPE=RelWithDebInfo" ^
+  "-BC:\\Users\\hcxys\\Downloads\\kelui\\kelui\\.cxx\\RelWithDebInfo\\4j5a5x4m\\armeabi-v7a" ^
+  -GNinja ^
+  "-DANDROID_STL=c++_shared"

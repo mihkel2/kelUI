@@ -1,0 +1,7 @@
+com.example.kelui-pngs-0 C:\Users\hcxys\Downloads\kelui\kelui\build\generated\res\pngs\release
+com.example.kelui-resValues-1 C:\Users\hcxys\Downloads\kelui\kelui\build\generated\res\resValues\release
+com.example.kelui-mergeReleaseResources-2 C:\Users\hcxys\Downloads\kelui\kelui\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.kelui-mergeReleaseResources-3 C:\Users\hcxys\Downloads\kelui\kelui\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.kelui-merged_res-4 C:\Users\hcxys\Downloads\kelui\kelui\build\intermediates\merged_res\release
+com.example.kelui-main-5 C:\Users\hcxys\Downloads\kelui\kelui\src\main\res
+com.example.kelui-release-6 C:\Users\hcxys\Downloads\kelui\kelui\src\release\res
