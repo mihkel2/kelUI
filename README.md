@@ -2,13 +2,14 @@ its pronounced
 KEHL- UI
 
 
-
-okay how to use
-download source
-configure vulkan(only if needed)
-create your menu
-add widgets
-
+TODO
+[ ] fully intergrate OpenXR
+[ ] cursor movement
+[x] add our own patcher so we can hook openxr
 
 
 documentation(not finished)
+https://keluidocs.vercel.app/#overview
+
+
+
