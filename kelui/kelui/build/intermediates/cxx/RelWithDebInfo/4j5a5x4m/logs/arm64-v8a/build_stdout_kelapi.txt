@@ -1,4 +1,0 @@
-ninja: Entering directory `C:\Users\hcxys\Downloads\kelui\kelui\.cxx\RelWithDebInfo\4j5a5x4m\arm64-v8a'
-[1/3] Building CXX object CMakeFiles/kelapi.dir/C_/Users/hcxys/Downloads/kelui/externalstuff/patchinline.cpp.o
-[2/3] Building CXX object CMakeFiles/kelapi.dir/C_/Users/hcxys/Downloads/kelui/api/kelapi.cpp.o
-[3/3] Linking CXX shared library C:\Users\hcxys\Downloads\kelui\kelui\build\intermediates\cxx\RelWithDebInfo\4j5a5x4m\obj\arm64-v8a\libkelapi.so
