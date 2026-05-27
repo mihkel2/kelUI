@@ -4,7 +4,7 @@
 #include <cstring>
 #include <unistd.h>
 #include <elf.h>
-
+// patcher fixed by ai i had alot of issues :(
 struct FindData {
     const char* name;
     uintptr_t base;
