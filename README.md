@@ -1,7 +1,8 @@
 its pronounced 
 KEHL- UI
 
-
+to all my russians and ukrainains yes im going to translate into russian
+my team is english so it would be stupid to use a languge they dont understand
 
 
 
