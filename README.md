@@ -28,6 +28,11 @@ vulkan will render the texture
 (this works best paired with wrappers ex BynameModding etc)
 
 
+what is this
+just a floating panel (like how an apk would look)
+Hooks openxrloader
+with openxrSDK 
+
 
 # ONLY one LIBARY NEEDED FOR THIS
 OpenXR 
