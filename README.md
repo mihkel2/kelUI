@@ -28,11 +28,6 @@ vulkan will render the texture
 (this works best paired with wrappers ex BynameModding etc)
 
 
-TODO:
-[ X ] fully intergrate OpenXR  
-[] cursor movement
-[x] add our own patcher so we can hook openxr
-[ ] Better UI development
-[ ] openGL support(real soon)
-[ ] Video and documentation
-[ ]
+
+# ONLY one LIBARY NEEDED FOR THIS
+OpenXR 
