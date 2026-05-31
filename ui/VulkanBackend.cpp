@@ -1,7 +1,5 @@
 #include "VulkanBackend.hpp"
-#include <android/log.h>
 #include <cstring>
-// only edit thisafter u read vulkan.org
 namespace kel {
 
 
