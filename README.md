@@ -4,6 +4,11 @@ KEHL- UI
 to all my russians and ukrainains yes im going to translate into russian
 my team is english so it would be stupid to use a languge they dont understand
 
+A bloat free graphical user interface 
+
+Hooks the game via custom patchers
+
+that doesn’t use dobby or BNM only openXR
 
 
 documentation(not finished)
