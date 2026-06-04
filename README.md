@@ -11,6 +11,14 @@ Hooks the game via custom patchers
 that doesn’t use dobby or BNM only openXR
 
 
+
+
+
+heres how to NOT use the renderer
+
+![](IMG_0981.jpeg)
+
+
 documentation(not finished)
 https://keluidocs.vercel.app/#overview
 
