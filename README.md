@@ -1,6 +1,10 @@
 its pronounced 
 KEHL- UI
 
+![](082B289F-DD8A-495B-9572-FD0286C37DCF.png)
+
+
+
 to all my russians and ukrainains yes im going to translate into russian
 my team is english so it would be stupid to use a languge they dont understand
 
@@ -14,9 +18,7 @@ that doesn’t use dobby or BNM only openXR
 
 
 
-heres how to NOT use the renderer
 
-![](IMG_0981.jpeg)
 
 
 documentation(not finished)
