@@ -73,9 +73,7 @@ api->sliderfloat("Brightness", &brightness, 0.0f, 1.0f);
 ```
 
 ### Important note on input
-
-The current implementation of `Widgets::button()` is visual only.
-It draws a button and returns `false` always, so actual button click handling is not implemented yet.
+ 
 
 
 
