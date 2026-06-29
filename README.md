@@ -130,9 +130,6 @@ if (api->button("Apply")) {
 
 ## What is not yet implemented
 
-- real pointer/controller input handling
-- actual button click detection
-- event-driven widget callbacks
 - focus navigation for VR controllers
 
 
